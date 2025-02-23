@@ -1,5 +1,5 @@
 # Email address used to send alerts
-EMAIL_ADDRESS = "your-email@gmail.com"
+EMAIL_ADDRESS = "sjpak001@gmail.com"
 
 # Password for the email account
 EMAIL_PASSWORD = "your-email-password"

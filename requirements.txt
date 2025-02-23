@@ -1,0 +1,10 @@
+PyQt6
+PyQt6-WebEngine
+playwright
+fake_useragent
+requests
+twocaptcha
+smtplib
+twilio
+sqlite3
+csv
